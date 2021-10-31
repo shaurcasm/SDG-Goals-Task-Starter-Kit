@@ -1,0 +1,10 @@
+// Device size constants for responsive page
+
+// Bootstrap based minimum sm width
+$screen-sm-min: 576px;
+
+@mixin sm {
+    @media (min-width: #{$screen-sm-min}) {
+        @content;
+    }
+}
