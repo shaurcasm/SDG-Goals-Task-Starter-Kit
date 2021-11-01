@@ -19,7 +19,7 @@ function App() {
 
   const dimensions = useMemo(() => ({
     width: (width / 2.0) - 140,
-    height: height - 204,
+    height: height - 220,
     margin: { top: 30, right: 30, bottom: 30, left: 100 }
   }), [width, height]);
 
@@ -34,7 +34,7 @@ function App() {
       </div>
       <div className='main'>
         <Chart year={year} goal={goal} dimensions={dimensions} />
-        <Map year={year} />
+        <Map year={year} goal={goal} dimensions={dimensions} />
       </div>
     </div>
   );
