@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Notes
+1. 3rd Party modules and their reason:
+    - d3: Data Visualization.
+    - jest, enzyme, enzyme-to-json, @wojtekmaj/enzyme-adapter-react-17: Setting up Jest and Enzyme for Tests
+    - immer, redux: For state management using redux.
+    - sass: For styles with reusable functions and variables.
+    - topojson-client: to convert topojson file to geojson for Map visualisation.
