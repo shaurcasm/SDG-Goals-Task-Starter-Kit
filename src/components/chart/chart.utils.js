@@ -1,8 +1,11 @@
 import * as d3 from "d3";
 
 
-function wrap() {
-    const textWidth = 90;
+/**
+ * wrap: function
+ * To truncate long words in an axis' label
+ */
+function wrap(textWidth = 90) {
     var self = d3.select(this),
         textLength = self.node().getComputedTextLength(),
         text = self.text();
@@ -14,12 +17,21 @@ function wrap() {
     }
 }
 
+/**
+ * getXScale: function
+ * @param width
+ */
 export function getXScale(width) {
     return d3.scaleLinear()
         .domain([0, 100])
         .range([0, width]);
 }
 
+/**
+ * getYScale: function
+ * @param data
+ * @param height
+ */
 export function getYScale(data, height) {
     return d3.scaleBand()
         .domain(data.map(datapoint => datapoint.area_name))
@@ -27,6 +39,10 @@ export function getYScale(data, height) {
         .padding(0.4);
 }
 
+/**
+ * applyAxisStyles: function
+ * @param container
+ */
 function applyAxisStyles(container) {
     container.select(".domain").remove();
     container.selectAll("line").attr("stroke", "rgba(12, 12, 12, 0.2");
@@ -37,6 +53,16 @@ function applyAxisStyles(container) {
         .each(wrap);
 }
 
+/**
+ * drawAxis: function
+ * @param container
+ * @param xScale
+ * @param yScale
+ * @param ticks
+ * @param tickSize
+ * @param tickFormat
+ * @param transform
+ */
 export function drawAxis({ container, xScale, yScale, ticks, tickSize, tickFormat, transform}) {
     const scale = xScale || yScale;
     const axisType = xScale ? d3.axisBottom : d3.axisLeft;
@@ -54,6 +80,11 @@ export function drawAxis({ container, xScale, yScale, ticks, tickSize, tickForma
     return applyAxisStyles(axisGroup);
 }
 
+/**
+ * drawBar: function
+ * @param {Object}
+ * @returns 
+ */
 export function drawBar({ container, data, goal, xScale, yScale }) {
     return container.selectAll('rect')
         .data(data)

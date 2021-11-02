@@ -1,18 +1,41 @@
 import * as d3 from "d3";
 
 
+/**
+ * getColorScale: Function
+ * Get Color Scale in relation to provided mean, constant final value and provided color range.
+ * @param mean
+ * @param colorGroup1,
+ * @param colorGroup2,
+ * @param colorGroup3
+ */
 export function getColorScale(mean, colorGroup1, colorGroup2, colorGroup3) {
     return d3.scaleThreshold()
         .domain([mean, 99])
         .range([colorGroup1, colorGroup2, colorGroup3]);
 }
 
+/**
+ * getXScale: Function
+ * Get X Scale in relation to provided mean, width and an optional breakpoint value for view defaulting to 40.
+ * @param mean
+ * @param width,
+ * @param breakpoint,
+ */
 export function getXScale(mean, width, breakpoint = 40) {
     return d3.scaleLinear()
         .domain([0, mean, 99, 100])
         .rangeRound([width - (breakpoint * 2), width - breakpoint, width, width + breakpoint]);
 }
 
+/**
+ * drawLegend: Function
+ * draws a key/legend that changes according to mean of the data.
+ * @param container
+ * @param mean
+ * @param xScale
+ * @param colorScale
+ */
 export function drawLegend({ container, mean, xScale, colorScale }) {
     const axis = d3.axisBottom(xScale)
         .tickSize(12)
@@ -55,12 +78,23 @@ const makeTooltip = () => d3.select("body")
     .append("div")
     .attr("class", "tooltip")
     .style("opacity", 0)
-    .style("display", "none")
+    .style("display", "none");
 
+/**
+ * drawMap: function
+ * Draws the map and fills appropriate colour in states.
+ * @param container
+ * @param geojson
+ * @param width
+ * @param height
+ * @param data
+ * @param goal
+ * @param colorScale
+ */
 export function drawMap({ container, geojson, width, height, data, goal, colorScale }) {
     const projection = d3.geoIdentity()
         .reflectY(true)
-        .fitExtent([[10,10], [width,height]], geojson);
+        .fitExtent([[5,0], [width,height]], geojson);
     
     const path = d3.geoPath()
         .projection(projection);

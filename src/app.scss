@@ -19,6 +19,11 @@
   display: flex;
 }
 
+.error {
+  margin: auto;
+  color: red;
+}
+
 .control {
   display: flex;
   max-width: 100%;
@@ -47,7 +52,9 @@
 .goal,
 .year {
   width: 50%;
-  margin: 5px;
+  margin: 0 5px;
+  color:#333;
+  text-align: center;
 }
 
 .tooltip {
@@ -65,20 +72,6 @@
   fill: none;
   stroke: #999;
   stroke-linejoin: round;
-}
-
-
-#title {
-  font-size: 3.5rem;
-}
-
-#description {
-  text-align: center;
-}
-
-#source {
-  align-self: flex-end;
-  margin-top: 1rem;
 }
 
 a {
