@@ -49,9 +49,10 @@ export function drawLegend({ container, mean, xScale, colorScale }) {
     legend.selectAll("rect")
         .data(colorScale.range().map(group => {
             group = colorScale.invertExtent(group); // Get the respective domain values of color groups in range.
+            let xDomain = [...xScale.domain()]
             // For edge cases with undefined values
-            if(!group[0]) group[0] = xScale.domain()[0]
-            if(!group[1]) group[1] = xScale.domain().at(-1) // Last value of the domain.
+            if(!group[0]) group[0] = xDomain[0]
+            if(!group[1]) group[1] = xDomain.pop() // Last value of the domain.
 
             return group;
         }))

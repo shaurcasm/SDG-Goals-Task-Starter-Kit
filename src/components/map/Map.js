@@ -5,17 +5,17 @@ import indiaTopo from "../../data/india.topo.json";
 import { getColorScale, getXScale, drawLegend, drawMap } from "./map.utils";
 
 
-const colorGroup1 = "#d20f1f";
-const colorGroup2 = "#427f39";
-const colorGroup3 = "#4217de";
+const colorGroup1 = "#f22f30";
+const colorGroup2 = "#62a049";
+const colorGroup3 = "#6237fe";
 
-export default function Map({ data, goal, dimensions }) {
+export default function Map({ data = [], goal, dimensions = {} }) {
   const mapRef = useRef(null);
   const { width, height, margin } = dimensions;
   const svgWidth = useMemo(() => width + margin.left + margin.right, [margin.left, margin.right, width]);
   const svgHeight = useMemo(() => height + margin.top + margin.bottom, [height, margin.bottom, margin.top]);
 
-  const mean = useMemo(() => d3.mean(data.map(datapoint => datapoint.chartdata.find(datum => datum.name === goal)?.value)), [data, goal]);
+  const mean = useMemo(() => d3.mean(data?.map(datapoint => datapoint.chartdata.find(datum => datum.name === goal)?.value) || []), [data, goal]);
   const xScale = useMemo(() => getXScale(mean, width), [mean, width]);
   const colorScale = useMemo(() => getColorScale(mean, colorGroup1, colorGroup2, colorGroup3), [mean]);
 

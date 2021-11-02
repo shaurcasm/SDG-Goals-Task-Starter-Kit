@@ -1,0 +1,5718 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Chart /> Renders the component with default and goal values 1`] = `
+<Chart
+  data={
+    Array [
+      Object {
+        "area_code": "IND035",
+        "area_name": "Andaman and Nicobar Islands",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 23,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 46,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 67,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND028",
+        "area_name": "Andhra Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 92,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 84,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 77,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 72,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND012",
+        "area_name": "Arunachal Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 31,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 93,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 64,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 60,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND018",
+        "area_name": "Assam",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 25,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 98,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 62,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 57,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND010",
+        "area_name": "Bihar",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 32,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 31,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 29,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 91,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 24,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 16,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 73,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 52,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND004",
+        "area_name": "Chandigarh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 97,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 99,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 98,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 73,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 79,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND022",
+        "area_name": "Chhattisgarh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 36,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 38,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 71,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 61,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND026",
+        "area_name": "Dadra and Nagar Haveli",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 27,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 56,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 95,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 18,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 75,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 62,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND025",
+        "area_name": "Daman and Diu",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 27,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 56,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 95,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 18,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 75,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 62,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND007",
+        "area_name": "Delhi",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 90,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 33,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 62,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND030",
+        "area_name": "Goa",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 44,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 63,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 72,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND024",
+        "area_name": "Gujarat",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 86,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 93,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 94,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 82,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 69,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND006",
+        "area_name": "Haryana",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 71,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 67,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND002",
+        "area_name": "Himachal Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 73,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 74,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND",
+        "area_name": "India",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 92,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 74,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 66,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND001",
+        "area_name": "Jammu and Kashmir",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 88,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 42,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 95,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 74,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 66,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND020",
+        "area_name": "Jharkhand",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 36,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 19,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 25,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 70,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 56,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND029",
+        "area_name": "Karnataka",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 76,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 72,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND032",
+        "area_name": "Kerala",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 80,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 75,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND037",
+        "area_name": "Ladakh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 84,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 95,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 27,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 74,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 66,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND031",
+        "area_name": "Lakshadweep",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 40,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 56,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 77,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND023",
+        "area_name": "Madhya Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 44,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 88,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 86,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 84,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 66,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 62,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND027",
+        "area_name": "Maharashtra",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 44,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 90,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 69,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 70,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND014",
+        "area_name": "Manipur",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 96,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 36,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 35,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 69,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 64,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND017",
+        "area_name": "Meghalaya",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 25,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 88,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 72,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 60,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND015",
+        "area_name": "Mizoram",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 32,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 81,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND013",
+        "area_name": "Nagaland",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 30,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 91,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 79,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 61,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND021",
+        "area_name": "Odisha",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 42,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 86,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 59,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 61,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND034",
+        "area_name": "Puducherry",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 91,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 98,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 23,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 86,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND003",
+        "area_name": "Punjab",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 91,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 76,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND008",
+        "area_name": "Rajasthan",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 73,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 60,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND011",
+        "area_name": "Sikkim",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 72,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 71,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND033",
+        "area_name": "Tamil Nadu",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 86,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 11,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 71,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 74,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND036",
+        "area_name": "Telangana",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 96,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 71,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 69,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND016",
+        "area_name": "Tripura",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 42,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 35,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 99,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 80,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 65,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND009",
+        "area_name": "Uttar Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 44,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 42,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 79,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 60,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND005",
+        "area_name": "Uttarakhand",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 56,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 86,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 72,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND019",
+        "area_name": "West Bengal",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 98,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 81,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 62,
+          },
+        ],
+      },
+    ]
+  }
+  dimensions={
+    Object {
+      "height": 300,
+      "margin": Object {
+        "bottom": 30,
+        "left": 30,
+        "right": 30,
+        "top": 30,
+      },
+      "width": 300,
+    }
+  }
+  goal="SDG Index Score"
+>
+  <svg
+    className="chart"
+    height={360}
+    width={360}
+  >
+    <g
+      className="chart-container"
+      transform="translate(30,30)"
+    />
+  </svg>
+</Chart>
+`;
+
+exports[`<Chart /> Renders the component with default values 1`] = `
+<Chart
+  data={
+    Array [
+      Object {
+        "area_code": "IND035",
+        "area_name": "Andaman and Nicobar Islands",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 23,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 46,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 67,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND028",
+        "area_name": "Andhra Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 92,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 84,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 77,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 72,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND012",
+        "area_name": "Arunachal Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 31,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 93,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 64,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 60,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND018",
+        "area_name": "Assam",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 25,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 98,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 62,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 57,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND010",
+        "area_name": "Bihar",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 32,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 31,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 29,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 91,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 24,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 16,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 73,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 52,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND004",
+        "area_name": "Chandigarh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 97,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 99,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 98,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 73,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 79,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND022",
+        "area_name": "Chhattisgarh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 36,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 38,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 71,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 61,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND026",
+        "area_name": "Dadra and Nagar Haveli",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 27,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 56,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 95,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 18,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 75,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 62,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND025",
+        "area_name": "Daman and Diu",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 27,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 56,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 95,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 18,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 75,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 62,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND007",
+        "area_name": "Delhi",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 90,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 33,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 62,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND030",
+        "area_name": "Goa",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 44,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 63,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 72,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND024",
+        "area_name": "Gujarat",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 86,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 93,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 94,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 82,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 69,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND006",
+        "area_name": "Haryana",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 71,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 67,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND002",
+        "area_name": "Himachal Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 73,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 74,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND",
+        "area_name": "India",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 92,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 74,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 66,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND001",
+        "area_name": "Jammu and Kashmir",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 88,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 47,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 42,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 95,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 74,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 66,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND020",
+        "area_name": "Jharkhand",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 36,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 19,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 25,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 70,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 56,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND029",
+        "area_name": "Karnataka",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 76,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 72,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND032",
+        "area_name": "Kerala",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 80,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 75,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND037",
+        "area_name": "Ladakh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 84,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 95,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 27,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 74,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 66,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND031",
+        "area_name": "Lakshadweep",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 40,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 56,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 77,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND023",
+        "area_name": "Madhya Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 44,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 55,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 88,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 86,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 84,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 66,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 62,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND027",
+        "area_name": "Maharashtra",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 44,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 90,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 69,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 70,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND014",
+        "area_name": "Manipur",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 96,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 36,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 35,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 69,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 64,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND017",
+        "area_name": "Meghalaya",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 37,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 25,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 88,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 72,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 60,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND015",
+        "area_name": "Mizoram",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 72,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 32,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 81,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND013",
+        "area_name": "Nagaland",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 30,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 91,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 79,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 61,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND021",
+        "area_name": "Odisha",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 42,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 86,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 59,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 61,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND034",
+        "area_name": "Puducherry",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 75,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 91,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 98,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 23,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 86,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND003",
+        "area_name": "Punjab",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 91,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 48,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 76,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 68,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND008",
+        "area_name": "Rajasthan",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 49,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 73,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 60,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND011",
+        "area_name": "Sikkim",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 80,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 62,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 58,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 89,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 65,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 72,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 71,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND033",
+        "area_name": "Tamil Nadu",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 86,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 66,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 87,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 78,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 11,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 71,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 74,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND036",
+        "area_name": "Telangana",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 68,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 96,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 73,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 43,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 71,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 69,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND016",
+        "area_name": "Tripura",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 52,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 42,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 35,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 67,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 99,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 69,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 80,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 65,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND009",
+        "area_name": "Uttar Pradesh",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 44,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 51,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 83,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 42,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 79,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 60,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND005",
+        "area_name": "Uttarakhand",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 74,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 61,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 70,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 85,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 100,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 63,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 56,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 77,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 82,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 60,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": null,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 64,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 86,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 72,
+          },
+        ],
+      },
+      Object {
+        "area_code": "IND019",
+        "area_name": "West Bengal",
+        "chartdata": Array [
+          Object {
+            "name": "Goal 1",
+            "value": 59,
+          },
+          Object {
+            "name": "Goal 2",
+            "value": 46,
+          },
+          Object {
+            "name": "Goal 3",
+            "value": 76,
+          },
+          Object {
+            "name": "Goal 4",
+            "value": 54,
+          },
+          Object {
+            "name": "Goal 5",
+            "value": 41,
+          },
+          Object {
+            "name": "Goal 6",
+            "value": 81,
+          },
+          Object {
+            "name": "Goal 7",
+            "value": 98,
+          },
+          Object {
+            "name": "Goal 8",
+            "value": 57,
+          },
+          Object {
+            "name": "Goal 9",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 10",
+            "value": 71,
+          },
+          Object {
+            "name": "Goal 11",
+            "value": 45,
+          },
+          Object {
+            "name": "Goal 12",
+            "value": 79,
+          },
+          Object {
+            "name": "Goal 13",
+            "value": 39,
+          },
+          Object {
+            "name": "Goal 14",
+            "value": 50,
+          },
+          Object {
+            "name": "Goal 15",
+            "value": 53,
+          },
+          Object {
+            "name": "Goal 16",
+            "value": 81,
+          },
+          Object {
+            "name": "SDG Index Score",
+            "value": 62,
+          },
+        ],
+      },
+    ]
+  }
+  dimensions={
+    Object {
+      "height": 300,
+      "margin": Object {
+        "bottom": 30,
+        "left": 30,
+        "right": 30,
+        "top": 30,
+      },
+      "width": 300,
+    }
+  }
+>
+  <svg
+    className="chart"
+    height={360}
+    width={360}
+  >
+    <g
+      className="chart-container"
+      transform="translate(30,30)"
+    />
+  </svg>
+</Chart>
+`;
+
+exports[`<Chart /> Renders the component with no data values 1`] = `
+<Chart
+  dimensions={
+    Object {
+      "height": 300,
+      "margin": Object {
+        "bottom": 30,
+        "left": 30,
+        "right": 30,
+        "top": 30,
+      },
+      "width": 300,
+    }
+  }
+>
+  <svg
+    className="chart"
+    height={360}
+    width={360}
+  >
+    <g
+      className="chart-container"
+      transform="translate(30,30)"
+    />
+  </svg>
+</Chart>
+`;

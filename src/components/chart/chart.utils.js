@@ -5,7 +5,8 @@ import * as d3 from "d3";
  * wrap: function
  * To truncate long words in an axis' label
  */
-function wrap(textWidth = 90) {
+function wrap() {
+    const textWidth = 90;
     var self = d3.select(this),
         textLength = self.node().getComputedTextLength(),
         text = self.text();
